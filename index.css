@@ -613,12 +613,6 @@
   border-top: 1px solid #eee;
 }
 
-/* Mobile il 2 column aakan */
-@media(max-width: 768px){
-  .gift-grid{
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
 .international-section{
   padding: 20px;
   font-family: Arial;
